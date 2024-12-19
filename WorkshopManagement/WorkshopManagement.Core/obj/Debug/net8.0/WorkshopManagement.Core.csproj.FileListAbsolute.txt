@@ -1,0 +1,11 @@
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\bin\Debug\net8.0\WorkshopManagement.Core.deps.json
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\bin\Debug\net8.0\WorkshopManagement.Core.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\bin\Debug\net8.0\WorkshopManagement.Core.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\refint\WorkshopManagement.Core.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\ref\WorkshopManagement.Core.dll

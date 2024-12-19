@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EeAOlFZjJVun/BSm8PE0akM767GQfNF0cYXZV19xtRg=",
+  "Source": "WorkshopManagement.API",
+  "BasePath": "_content/WorkshopManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

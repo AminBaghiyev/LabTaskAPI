@@ -1,0 +1,17 @@
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\bin\Debug\net8.0\WorkshopManagement.BL.deps.json
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\bin\Debug\net8.0\WorkshopManagement.BL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\bin\Debug\net8.0\WorkshopManagement.BL.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\bin\Debug\net8.0\WorkshopManagement.Core.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\bin\Debug\net8.0\WorkshopManagement.DAL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\bin\Debug\net8.0\WorkshopManagement.DAL.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\bin\Debug\net8.0\WorkshopManagement.Core.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\Workshop.2E66C1B3.Up2Date
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\refint\WorkshopManagement.BL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\ref\WorkshopManagement.BL.dll
