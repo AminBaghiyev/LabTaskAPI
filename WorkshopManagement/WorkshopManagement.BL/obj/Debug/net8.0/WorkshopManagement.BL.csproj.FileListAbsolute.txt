@@ -15,3 +15,4 @@ C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagemen
 C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\refint\WorkshopManagement.BL.dll
 C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.pdb
 C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\ref\WorkshopManagement.BL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.BL\obj\Debug\net8.0\WorkshopManagement.BL.sourcelink.json

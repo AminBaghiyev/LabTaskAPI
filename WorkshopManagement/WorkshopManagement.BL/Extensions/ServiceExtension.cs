@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
 using WorkshopManagement.BL.Services.Abstractions;
 using WorkshopManagement.BL.Services.Implementations;
 using WorkshopManagement.BL.Utilities;
@@ -23,5 +24,7 @@ public static class ServiceExtension
         services.AddScoped<IRepository<Participant>, Repository<Participant>>();
         services.AddScoped<IWorkshopService, WorkshopService>();
         services.AddScoped<IParticipantService, ParticipantService>();
+
+        services.AddAutoMapper(Assembly.GetExecutingAssembly());
     }
 }

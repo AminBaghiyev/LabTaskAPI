@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Migrations\\20241219143934_WorkshopsAndParticipantsCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkshopManagement.DAL\\Migrations\\20241219143934_WorkshopsAndParticipantsCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BABCFC86-9117-4955-87FD-234339458006}|WorkshopManagement.DAL\\WorkshopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtaskapi\\workshopmanagement\\workshopmanagement.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BABCFC86-9117-4955-87FD-234339458006}|WorkshopManagement.DAL\\WorkshopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Migrations\\20241219143600_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkshopManagement.DAL\\Migrations\\20241219143600_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC61CA21-44CF-4974-98F8-968BBBB26F9A}|WorkshopManagement.BL\\WorkshopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtaskapi\\workshopmanagement\\workshopmanagement.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61CA21-44CF-4974-98F8-968BBBB26F9A}|WorkshopManagement.BL\\WorkshopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241219143934_WorkshopsAndParticipantsCreated.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Migrations\\20241219143934_WorkshopsAndParticipantsCreated.cs",
-              "RelativeDocumentMoniker": "WorkshopManagement.DAL\\Migrations\\20241219143934_WorkshopsAndParticipantsCreated.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Migrations\\20241219143934_WorkshopsAndParticipantsCreated.cs",
-              "RelativeToolTip": "WorkshopManagement.DAL\\Migrations\\20241219143934_WorkshopsAndParticipantsCreated.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeToolTip": "WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:39:35.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241219143600_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Migrations\\20241219143600_Initial.cs",
-              "RelativeDocumentMoniker": "WorkshopManagement.DAL\\Migrations\\20241219143600_Initial.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Migrations\\20241219143600_Initial.cs",
-              "RelativeToolTip": "WorkshopManagement.DAL\\Migrations\\20241219143600_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:36:00.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WorkshopManagement.DAL\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.DAL\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "WorkshopManagement.DAL\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:18:53.285Z",
+              "WhenOpened": "2024-12-20T14:43:08.488Z",
               "EditorCaption": ""
             }
           ]

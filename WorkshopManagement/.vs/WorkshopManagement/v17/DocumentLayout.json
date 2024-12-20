@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC61CA21-44CF-4974-98F8-968BBBB26F9A}|WorkshopManagement.BL\\WorkshopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtaskapi\\workshopmanagement\\workshopmanagement.bl\\services\\implementations\\workshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC61CA21-44CF-4974-98F8-968BBBB26F9A}|WorkshopManagement.BL\\WorkshopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\services\\implementations\\workshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC61CA21-44CF-4974-98F8-968BBBB26F9A}|WorkshopManagement.BL\\WorkshopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtaskapi\\workshopmanagement\\workshopmanagement.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61CA21-44CF-4974-98F8-968BBBB26F9A}|WorkshopManagement.BL\\WorkshopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WorkshopService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.BL\\Services\\Implementations\\WorkshopService.cs",
-              "RelativeDocumentMoniker": "WorkshopManagement.BL\\Services\\Implementations\\WorkshopService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.BL\\Services\\Implementations\\WorkshopService.cs",
-              "RelativeToolTip": "WorkshopManagement.BL\\Services\\Implementations\\WorkshopService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\WorkshopManagement\\WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeToolTip": "WorkshopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:50:07.528Z",
+              "WhenOpened": "2024-12-20T14:43:08.488Z",
               "EditorCaption": ""
             }
           ]

@@ -29,7 +29,16 @@ public class Repository<T> : IRepository<T> where T : BaseEntity, new()
 
     public async Task<ICollection<T>> GetAllAsync() => await Table.ToListAsync();
 
-    public async Task<T> GetByIdAsync(int id) => await Table.FindAsync(id);
+    public async Task<T> GetByIdAsync(int id, params string[] includes)
+    {
+        IQueryable<T> query = Table.AsQueryable();
+        foreach (string include in includes)
+        {
+            query = query.Include(include);
+        }
+
+        return await query.SingleOrDefaultAsync(e => e.Id == id);
+    }
 
     public T Update(T entity)
     {
@@ -40,4 +49,15 @@ public class Repository<T> : IRepository<T> where T : BaseEntity, new()
     public async Task<int> SaveChangesAsync() => await _context.SaveChangesAsync();
 
     public async Task<bool> IsExistsAsync(int id) => await Table.AnyAsync(x => x.Id == id);
+
+    public async Task<T> GetByIdAsNoTrackingAsync(int id, params string[] includes)
+    {
+        IQueryable<T> query = Table.AsQueryable().AsNoTracking();
+        foreach (string include in includes)
+        {
+            query = query.Include(include);
+        }
+
+        return await query.SingleOrDefaultAsync(e => e.Id == id);
+    }
 }

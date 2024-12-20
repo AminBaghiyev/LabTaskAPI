@@ -147,3 +147,5 @@ C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagemen
 C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.API\obj\Debug\net8.0\WorkshopManagement.API.pdb
 C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.API\obj\Debug\net8.0\WorkshopManagement.API.genruntimeconfig.cache
 C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.API\obj\Debug\net8.0\ref\WorkshopManagement.API.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.API\obj\Debug\net8.0\WorkshopManagement.API.sourcelink.json
+C:\Users\II Novbe\Desktop\AB 205\LabTaskAPI\WorkshopManagement\WorkshopManagement.API\bin\Debug\net8.0\AutoMapper.dll

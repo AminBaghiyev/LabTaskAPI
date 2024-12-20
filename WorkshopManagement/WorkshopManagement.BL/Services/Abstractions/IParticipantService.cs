@@ -1,7 +1,7 @@
 ﻿using WorkshopManagement.BL.DTOs;
 using WorkshopManagement.Core.Entities;
 
-namespace ParticipantManagement.BL.Services.Abstractions;
+namespace WorkshopManagement.BL.Services.Abstractions;
 
 public interface IParticipantService
 {

@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.ParticipantsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Participants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.ParticipantsController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Participants",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "participantDto",
+        "Type": "WorkshopManagement.BL.DTOs.ParticipantCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.ParticipantsController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Participants",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "participantDto",
+        "Type": "WorkshopManagement.BL.DTOs.ParticipantUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.ParticipantsController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Participants/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.ParticipantsController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Participants/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.WorkshopsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Workshops",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.WorkshopsController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Workshops",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workshopDto",
+        "Type": "WorkshopManagement.BL.DTOs.WorkshopCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.WorkshopsController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Workshops",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workshopDto",
+        "Type": "WorkshopManagement.BL.DTOs.WorkshopUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.WorkshopsController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Workshops/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkshopManagement.API.Controllers.WorkshopsController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Workshops/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
