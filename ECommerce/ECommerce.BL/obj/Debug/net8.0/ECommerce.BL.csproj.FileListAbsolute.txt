@@ -1,0 +1,17 @@
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\bin\Debug\net8.0\ECommerce.BL.deps.json
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\bin\Debug\net8.0\ECommerce.BL.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\bin\Debug\net8.0\ECommerce.BL.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\bin\Debug\net8.0\ECommerce.Core.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\bin\Debug\net8.0\ECommerce.DAL.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\bin\Debug\net8.0\ECommerce.DAL.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\bin\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerce.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerce.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerce.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerce.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerc.F698677F.Up2Date
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerce.BL.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\refint\ECommerce.BL.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ECommerce.BL.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.BL\obj\Debug\net8.0\ref\ECommerce.BL.dll
