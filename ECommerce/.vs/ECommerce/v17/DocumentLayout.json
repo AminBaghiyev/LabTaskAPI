@@ -1,54 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F5EB5421-C24F-428B-91E1-DB01227108AF}|ECommerce.BL\\ECommerce.BL.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerce\\ecommerce.bl\\dtos\\orderdtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5EB5421-C24F-428B-91E1-DB01227108AF}|ECommerce.BL\\ECommerce.BL.csproj|solutionrelative:ecommerce.bl\\dtos\\orderdtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5EB5421-C24F-428B-91E1-DB01227108AF}|ECommerce.BL\\ECommerce.BL.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerce\\ecommerce.bl\\services\\abstractions\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5EB5421-C24F-428B-91E1-DB01227108AF}|ECommerce.BL\\ECommerce.BL.csproj|solutionrelative:ecommerce.bl\\services\\abstractions\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\ECommerce\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.BL\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
-              "RelativeDocumentMoniker": "ECommerce.BL\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.BL\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
-              "RelativeToolTip": "ECommerce.BL\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:40:29.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.BL\\Services\\Abstractions\\IOrderService.cs",
-              "RelativeDocumentMoniker": "ECommerce.BL\\Services\\Abstractions\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.BL\\Services\\Abstractions\\IOrderService.cs",
-              "RelativeToolTip": "ECommerce.BL\\Services\\Abstractions\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:34:02.116Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -5,10 +5,10 @@ namespace ECommerce.BL.Services.Abstractions;
 
 public interface IOrderService
 {
-    Task<List<ProductListItemDto>> GetAllAsync();
-    Task<Product> GetByIdAsync(int id);
+    Task<List<OrderListItemDto>> GetAllAsync();
+    Task<Order> GetByIdAsync(int id);
     Task CreateAsync(OrderCreateDto entity);
-    Task UpdateAsync(ProductUpdateDto entity, int id);
+    Task UpdateAsync(OrderUpdateDto entity, int id);
     Task DeleteAsync(int id);
     Task<int> SaveChangesAsync();
 }

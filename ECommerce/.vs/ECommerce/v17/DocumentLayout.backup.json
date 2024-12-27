@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD46798E-CE8F-46D3-9496-73D8BBBF50B9}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerce\\ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD46798E-CE8F-46D3-9496-73D8BBBF50B9}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5EB5421-C24F-428B-91E1-DB01227108AF}|ECommerce.BL\\ECommerce.BL.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerce\\ecommerce.bl\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5EB5421-C24F-428B-91E1-DB01227108AF}|ECommerce.BL\\ECommerce.BL.csproj|solutionrelative:ecommerce.bl\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD46798E-CE8F-46D3-9496-73D8BBBF50B9}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtaskapi\\ecommerce\\ecommerce.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD46798E-CE8F-46D3-9496-73D8BBBF50B9}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.BL\\Services\\Concretes\\ProductService.cs",
-              "RelativeDocumentMoniker": "ECommerce.BL\\Services\\Concretes\\ProductService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.BL\\Services\\Concretes\\ProductService.cs",
-              "RelativeToolTip": "ECommerce.BL\\Services\\Concretes\\ProductService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:16:31.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ECommerce\\ECommerce.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ECommerce.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFAAAAAcAAAAAAAAAA==",
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\ECommerce\\ECommerce.API\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTaskAPI\\ECommerce\\ECommerce.API\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:08:55.911Z",
+              "WhenOpened": "2024-12-27T10:50:45.191Z",
               "EditorCaption": ""
             }
           ]
