@@ -1,0 +1,17 @@
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.BL.deps.json
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.BL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.BL.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.AssemblyInfoInputs.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.AssemblyInfo.cs
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\refint\HospitalManagement.BL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\ref\HospitalManagement.BL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.DL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.DL.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.csproj.AssemblyReference.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.csproj.CopyComplete

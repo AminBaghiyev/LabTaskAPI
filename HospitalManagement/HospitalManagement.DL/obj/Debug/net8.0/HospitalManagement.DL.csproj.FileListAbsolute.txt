@@ -1,0 +1,17 @@
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\bin\Debug\net8.0\HospitalManagement.DL.deps.json
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\bin\Debug\net8.0\HospitalManagement.DL.runtimeconfig.json
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\bin\Debug\net8.0\HospitalManagement.DL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\bin\Debug\net8.0\HospitalManagement.DL.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.csproj.AssemblyReference.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.AssemblyInfoInputs.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.AssemblyInfo.cs
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.csproj.CoreCompileInputs.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\refint\HospitalManagement.DL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.genruntimeconfig.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\ref\HospitalManagement.DL.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\bin\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\bin\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.DL\obj\Debug\net8.0\HospitalManagement.DL.csproj.CopyComplete

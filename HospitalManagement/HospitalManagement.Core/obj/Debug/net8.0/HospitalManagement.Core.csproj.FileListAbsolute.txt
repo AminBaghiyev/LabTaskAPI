@@ -1,0 +1,11 @@
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\bin\Debug\net8.0\HospitalManagement.Core.deps.json
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\bin\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\bin\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.AssemblyInfoInputs.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.AssemblyInfo.cs
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\refint\HospitalManagement.Core.dll
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\CLASSTIME\source\repos\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\ref\HospitalManagement.Core.dll
